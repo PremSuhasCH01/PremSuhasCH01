@@ -1,12 +1,17 @@
 # [Prem Suhas C H ] - Data Analyst
 
 
-Welcome to my GitHub profile:
-## Skills
-- **Data Visualization:** Proficient in creating impactful visualizations using Power BI and Tableau.
-- **Data Analysis:** Experienced in using Excel for in-depth data analysis and reporting.
-- **Database Management:** Skilled in working with MySQL for data storage and retrieval.
-- **Programming:*
+Welcome to my GitHub profile I am a passionate  Data Analyst with Knowledge in 
+- **Power BI** 
+- **Tableau** 
+- **Excel** 
+- **MySQL**
+- **Python**
+
+  ## Education
+- **[Adichunchanagiri Institute of Technology(vtu)]** - Bachelor's in [Computer Science and Engineering], [2023]
+- **[ExelR]**-Data Analyst Course 
+  
 
 
 
