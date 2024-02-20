@@ -2,7 +2,7 @@
 
 
 Welcome to my GitHub profile:
-I am a passionate Data Analyst with Knowledge in 
+I am a passionate Data Analyst with Knowledge in\n 
 -Power BI 
 -Tableau
 -Excel
