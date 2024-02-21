@@ -14,7 +14,7 @@ Welcome to my GitHub profile I am a passionate  Data Analyst with Knowledge in
 
   ## Certifications
 - [Data Analyst Certification] -ExelR,2024
-- [Data Analyst Internship Certification ] -Aivariant,2024
+- [Data Analyst Internship Certification ] -ExelR,2024
   
 
 
